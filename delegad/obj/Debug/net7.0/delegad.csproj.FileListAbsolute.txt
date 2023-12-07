@@ -1,0 +1,14 @@
+C:\Users\Святик\Desktop\delegad\obj\Debug\net7.0\delegad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Святик\Desktop\delegad\obj\Debug\net7.0\delegad.AssemblyInfoInputs.cache
+C:\Users\Святик\Desktop\delegad\obj\Debug\net7.0\delegad.AssemblyInfo.cs
+C:\Users\Святик\Desktop\delegad\obj\Debug\net7.0\delegad.csproj.CoreCompileInputs.cache
+C:\Users\Святик\Desktop\delegad\bin\Debug\net7.0\delegad.exe
+C:\Users\Святик\Desktop\delegad\bin\Debug\net7.0\delegad.deps.json
+C:\Users\Святик\Desktop\delegad\bin\Debug\net7.0\delegad.runtimeconfig.json
+C:\Users\Святик\Desktop\delegad\bin\Debug\net7.0\delegad.dll
+C:\Users\Святик\Desktop\delegad\bin\Debug\net7.0\delegad.pdb
+C:\Users\Святик\Desktop\delegad\obj\Debug\net7.0\delegad.dll
+C:\Users\Святик\Desktop\delegad\obj\Debug\net7.0\refint\delegad.dll
+C:\Users\Святик\Desktop\delegad\obj\Debug\net7.0\delegad.pdb
+C:\Users\Святик\Desktop\delegad\obj\Debug\net7.0\delegad.genruntimeconfig.cache
+C:\Users\Святик\Desktop\delegad\obj\Debug\net7.0\ref\delegad.dll
